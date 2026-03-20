@@ -9,4 +9,6 @@ dependencies = [
     "jupyter>=1.1",
     "nbformat>=5.10",
     "ipykernel>=6.29",
+    "streamlit>=1.55.0",
+    "dash>=4.0.0",
 ]
